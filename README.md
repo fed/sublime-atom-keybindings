@@ -42,6 +42,14 @@
 | `Cmd + Shift + \` | Locate current file on file explorer (needs to be configured in Sublime) |
 | `Ctrl + Cmd + F` | Toggle fullscreen |
 
+## Layout
+
+| Key Binding | Description |
+|-------------|-------------|
+|	`Cmd + Opt + 1` | Single column/row layout |
+|	`Cmd + Opt + 2` | Double column layout |
+|	`Cmd + Opt + Shift + 2` | Double row layout |
+
 ## Folding
 
 | Key Binding | Description |
